@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1621694008 source:e:\asymmety\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+

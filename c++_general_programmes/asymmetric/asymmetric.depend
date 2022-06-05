@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1621605836 source:f:\cpluspluscodes\asymmetric\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<math.h>
+	<cstring>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620581347 source:f:\cpluspluscodes\class\main.cpp
+	<iostream>
+	<string>
+	<cassert>
+

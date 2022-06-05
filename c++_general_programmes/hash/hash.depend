@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622145159 source:f:\cpluspluscodes\hash\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+

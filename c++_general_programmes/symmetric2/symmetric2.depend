@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622119863 source:f:\cpluspluscodes\symmetric2\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+
